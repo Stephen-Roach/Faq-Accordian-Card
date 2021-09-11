@@ -7,7 +7,13 @@
 .main__card {
   display: flex;
   flex-direction: column;
-  max-width: 50%;
+  align-items: center;
+  justify-content: center;
+}
+
+.main__card-title {
+  font-weight: bold;
+  font-size: 24px;
 }
 
 /* footer */
